@@ -5,7 +5,11 @@ Consulte o relatório na pasta `docs`.
 
 ## 📸 Tela do Programa
 
-Tela Menu inicial e de Login:
+<div align="center">
+
+**Tela Menu inicial e de Login:**
+
+</div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <img src="docs/img1.png" alt="Menu" width="420px" height="113px" style="margin: 8px; object-fit:cover;"/>
