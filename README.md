@@ -11,6 +11,7 @@ Tela Menu inicial e de Login:
   <img src="docs/img1.png" alt="Menu" width="420px" height="113px" style="margin: 8px; object-fit:cover;"/>
   <img src="docs/image.png" alt="Login" width="308px" height="72px" style="margin: 8px; object-fit:cover;"/>
 </div>
+
 Tela do ADMIN:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
