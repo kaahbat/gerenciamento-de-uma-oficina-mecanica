@@ -12,6 +12,7 @@ Tela Menu inicial e de Login:
   <img src="docs/image.png" alt="Login" width="308px" height="72px" style="margin: 8px; object-fit:cover;"/>
 </div>
 Tela do ADMIN:
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <img src="docs/img2.png" alt="ADMIN" width="429px" height="253px" style="margin: 8px; object-fit:cover;"/>
 
@@ -19,7 +20,9 @@ Tela do Vendedor:
 
   <img src="docs/img3.png" alt="Vendedor" width="693px" height="112px" style="margin: 8px; object-fit:cover;"/>
 </div>
+
 Tela do Mecanico:
+
 <div style="display: flex; justify-content: center;">
   <img src="docs/img4.png" alt="Mecanico" wwidth="618px" height="113px" style="margin: 8px; object-fit:cover;"/>
 </div>
